@@ -20,3 +20,7 @@ Here are some ideas to get you started:
 📫 How to reach me: my personal email liliia.shashina@gmail.com
 
 
+<!-- https://dev.to/lilianacodes 
+add Linkedin -->
+
+
