@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 🌱 I’m currently learning React JS
 
-📫 How to reach me: on my personal email liliia.shashina@gmail.com
+📫 How to reach me: my personal email liliia.shashina@gmail.com
 
 
